@@ -20,12 +20,6 @@ Buraya yazabilceğim çok birşey yok o yüzden discord hesabımı ve spotify he
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-## Hesabım Hakkında Bilgiler
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muratiste&theme=github_dark
-
-## En çok kullandığım diller
-https://github-readme-stats.vercel.app/api/top-langs/?username=muratiste&theme=dark
-
 # Discord hesabım
 [![https://discord.gg/8jzgCHCq](https://lanyard.cnrad.dev/api/976792621810851870)](https://discord.com/users/976792621810851870)
 
