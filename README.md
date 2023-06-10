@@ -1,4 +1,4 @@
-### Html5 Css ve az çok javascript biliyorum
+### Merhaba Profilime Hoşgeldin Birşeyemi Bakacaktın Pek Bir Şey Yok Ama :)
 
 Buraya yazabilceğim çok birşey yok o yüzden discord hesabımı ve spotify hesabımı koyacağım çünkü neden olmasın değilmi?:>
 
