@@ -3,6 +3,7 @@
 Buraya yazabilceğim çok birşey yok o yüzden discord hesabımı ve spotify hesabımı koyacağım çünkü neden olmasın değilmi?:>
 
 ## Kullandığım Teknolojiler
+![image]({https://img.shields.io/badge/Discord-5865F2?})
 https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
