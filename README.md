@@ -13,8 +13,9 @@ Buraya yazabilceğim çok birşey yok o yüzden discord hesabımı ve spotify he
 
 ## Son Dinlediklerim
 ![Merhaba Galiba Hata Oldu :)](https://spotify-recently-played-readme.vercel.app/api?user=317iimf2ol6iujl5plhgdkue7kfm&unique={true|1|on|yes})
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)](https://github.com/harish-sethuraman/readme-components)
 
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+
 
 
