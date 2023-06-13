@@ -21,10 +21,6 @@ Buraya yazabilceğim çok birşey yok o yüzden discord hesabımı ve spotify he
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
 # [Discord Hesabım](https://discord.com/users/976792621810851870)
-[Discord Hesabım](https://discord.com/users/976792621810851870)
-
-
-
 
 ## Spotify hesabım
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317iimf2ol6iujl5plhgdkue7kfm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=317iimf2ol6iujl5plhgdkue7kfm&redirect=true)
