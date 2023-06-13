@@ -21,7 +21,7 @@ Buraya yazabilceğim çok birşey yok o yüzden discord hesabımı ve spotify he
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
 # Discord hesabım
-[![https://discord.gg/8jzgCHCq](https://lanyard.cnrad.dev/api/976792621810851870)](https://discord.com/users/976792621810851870)
+[![https://discord.com/invite/MqSew5KzYp](https://lanyard.cnrad.dev/api/976792621810851870)](https://discord.com/users/976792621810851870)
 
 
 
